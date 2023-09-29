@@ -53,6 +53,13 @@
 			children = (
 				A64897092AC6DDC9008C8685 /* SahaYatriApp.swift */,
 				A648970B2AC6DDC9008C8685 /* ContentView.swift */,
+				A648971D2AC6DE85008C8685 /* ViewModel */,
+				A648971C2AC6DE71008C8685 /* Utilities */,
+				A64897192AC6DE1A008C8685 /* Sound */,
+				A648971A2AC6DE3E008C8685 /* Extension */,
+				A648971B2AC6DE49008C8685 /* View */,
+				A64897182AC6DDFE008C8685 /* Model */,
+				A64897172AC6DDF4008C8685 /* Data */,
 				A648970D2AC6DDCA008C8685 /* Assets.xcassets */,
 				A648970F2AC6DDCA008C8685 /* Preview Content */,
 			);
@@ -65,6 +72,59 @@
 				A64897102AC6DDCA008C8685 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		A64897172AC6DDF4008C8685 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		A64897182AC6DDFE008C8685 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		A64897192AC6DE1A008C8685 /* Sound */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Sound;
+			path = Video;
+			sourceTree = "<group>";
+		};
+		A648971A2AC6DE3E008C8685 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Extension;
+			path = Video;
+			sourceTree = "<group>";
+		};
+		A648971B2AC6DE49008C8685 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = View;
+			path = Video;
+			sourceTree = "<group>";
+		};
+		A648971C2AC6DE71008C8685 /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Utilities;
+			path = Model;
+			sourceTree = "<group>";
+		};
+		A648971D2AC6DE85008C8685 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModel;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
